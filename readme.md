@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+![Image Alt Text](https://i.ibb.co/Fn3kqNx/Screen-Shot-2023-06-02-at-07-54-56.png)
+
 ## Description
 
 The Student Assessment Website is a web application developed using React.js, Vite, Tailwind CSS, and TypeScript. It provides a platform for conducting student assessments.
